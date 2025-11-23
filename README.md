@@ -18,7 +18,7 @@ The goal is to provide a **simple, explicit and controllable branching model** s
   Comprehensive description of the system architecture, versioning model, branching semantics, merge logic and future extensions.
 
 - **Testing Strategy:** [TESTING.md](./TESTING.md)  
-  Detailed overview of the test approach (unit, integration, API, benchmarks), aligned with Google engineering practices.
+  Detailed overview of the test approach (unit, integration, API, benchmarks)
 
 ## Key Features
 
@@ -37,7 +37,7 @@ Simple enough to reason about, strong enough for real workflows.
 ### ✔ HTTP API + Service Layer
 Full end-to-end functional example with REST endpoints.
 
-### ✔ Google-Style Tests & Benchmarks
+### ✔ Tests & Benchmarks
 Full test suite with:
 - unit tests,
 - integration tests,
