@@ -20,6 +20,11 @@ The goal is to provide a **simple, explicit and controllable branching model** s
 - **Testing Strategy:** [TESTING.md](./TESTING.md)  
   Detailed overview of the test approach (unit, integration, API, benchmarks)
 
+## Articles
+
+- [Speculative Branching Cache: Managing Temporary State Without Transactions or Raft](./ARTICLE.md)
+
+
 ## Key Features
 
 ### ✔ Speculative Branches
